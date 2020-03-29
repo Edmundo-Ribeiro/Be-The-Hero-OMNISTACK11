@@ -24,8 +24,8 @@ img.icon{
 <p class="menu" align = "center">
   <a  href="#what-it-is">What it is</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project-idea">Project Idea</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#author">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#the-idea">Project Idea</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#inspired-by">Inspired By</a>
 </p>
@@ -75,13 +75,13 @@ also:
   - [Jest](https://jestjs.io/)
 
 ---
-## :rocket: Projeto
+## :rocket: The Idea
 
-O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
+** Be The Hero ** is a platform that connects NGOs and people.
+It allows NGOs to report incidents that they are working on, so that Heroes can get in touch and help with costs as well as better understand the work of NGOs in the community. 
 
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
+---
+## :computer: Preview
 ---
 
 ## :bust_in_silhouette: Athor
