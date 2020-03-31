@@ -15,12 +15,13 @@
 <br>
 
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Edmundo-Ribeiro/Be-The-Hero-OMNISTACK11?color=%23e02041">
 
-![GitHub language count](https://img.shields.io/github/languages/count/Edmundo-Ribeiro/Be-The-Hero-OMNISTACK11?color=%23e02041)
+  <a href="https://github.com/Edmundo-Ribeiro">
+    <img alt="Made by Edmundo Ribeiro" src="https://img.shields.io/badge/Made%20by-Edmundo--Ribeiro-%23e02041">
+  </a>
 
-![Made By](https://img.shields.io/badge/Made%20by-Edmundo--Ribeiro-%23e02041)
-
-![Made By](https://img.shields.io/badge/version-1.0-%23e02041)
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-%23e02041">
 
 </p>
 
