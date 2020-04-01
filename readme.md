@@ -7,7 +7,7 @@
   <a href="#wrench-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-the-idea">Project Idea</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#athor">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#inspired-by">Inspired By</a>
 
 </p>
@@ -30,16 +30,13 @@
 ---
 
 ## :question: What it is
-Be The Hero is a project developed during the "Semana Omnistack 11.0" provided by, <span id="rocket">[@Rocketseat](https://github.com/Rocketseat)</span> where I learned to use the stack [Node](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and a lot of other technologies in this ecosytem to implement a rest api that provided the data and bisiness rules for the frontend and the mobile aplication.
+Be The Hero is a project developed during the "Semana Omnistack 11.0" hosted by [@Rocketseat](https://github.com/Rocketseat) in which I learned how to use the stack [Node](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and several other technologies in this ecosystem. The result was a REST API which provides data and contains the business rules consumed by a frontend for web and mobile.
 
 <h2 align="center">
 <img width = "300px" src = "https://rocketseat.com.br/static/images/week/logo.svg" />
 </h2>
 
----
-
-
-## :wrench: technologies
+## :wrench: Technologies
 
 This project uses the following technologies:
 
@@ -70,18 +67,24 @@ also:
 ---
 ## :rocket: The Idea
 
-** Be The Hero ** is a platform that connects NGOs and people.
+**Be The Hero** is a platform that connects NGOs and people.
 It allows NGOs to report incidents that they are working on, so that Heroes can get in touch and help with costs as well as better understand the work of NGOs in the community. 
 
 ---
 ## :computer: Preview
+<h4 align="center"> Registration and Logon</h4>
+<img align="center" src="./Img/previewcdastro.gif"/>
+
+<h4 align="center">Register a new issue and Logout</h4>
+<img align="center" src="./Img/cadastro de caso.gif"/>
+
 ---
 
-## Athor
+## Author
 Edmundo Ribeiro : [@Edmundo-Ribeiro](https://github.com/Edmundo-Ribeiro)
 
 ---
 
 ## Inspired By
 
-All the code developet here was inspired by the lectures promoted by [@Rocketseat](https://github.com/Rocketseat) and [@diego3g](https://github.com/diego3g)
+All the code developed here was inspired by the lectures promoted by [@Rocketseat](https://github.com/Rocketseat) and [@diego3g](https://github.com/diego3g).
